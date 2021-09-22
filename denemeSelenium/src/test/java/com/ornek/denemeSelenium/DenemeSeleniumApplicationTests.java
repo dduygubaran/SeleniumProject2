@@ -14,7 +14,7 @@ class DenemeSeleniumApplicationTests {
 	
 	private WebDriver driver;
 	String emailim="duygubaran1995@gmail.com";
-	String şifre ="dbcbsbsb13121995";
+	String şifre ="**************";
 
 	@Test
 	void contextLoads() {
