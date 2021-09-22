@@ -11,4 +11,4 @@ Basit bir Selenium projesi oluşturularak, herhangi bir web sitesindeki input al
 
 . Tercihen Spring Framework projesi üzerinde tasarım yapılması gerekmektedir.
 
-. Şifre kısmı gizlenmiştir
+-- Şifre kısmı bilinçli gizlenmiştir
