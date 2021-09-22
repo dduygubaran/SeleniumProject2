@@ -10,4 +10,5 @@ Basit bir Selenium projesi oluşturularak, herhangi bir web sitesindeki input al
 . Java (tercihen) ve ya python dilinde tasarım yapılması,
 
 . Tercihen Spring Framework projesi üzerinde tasarım yapılması gerekmektedir.
-//şifre kısmı gizlenmiştir
+
+. Şifre kısmı gizlenmiştir
